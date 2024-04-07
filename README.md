@@ -10,7 +10,7 @@
 </p>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg) <img align='right' src="https://profile-counter.glitch.me/ComlanGiovanni/count.svg" alt="Visitor Count">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 
 <!---
 https://giphy.com/
