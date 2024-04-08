@@ -24,5 +24,6 @@
   
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit..." />
+      <img alt="follow the rabbit ..." src="https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit..." />
 </picture>
 <div> 
