@@ -22,8 +22,17 @@
 </picture>
 <div> 
 
+
+<p align='center'>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=11169899709&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=11169899709&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</a>
+</p>
+
+<p align='right'><b>Github Profile Views</b></p>
+
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg) <img align='right'>
 
 <!---
 https://giphy.com/
