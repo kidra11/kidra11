@@ -6,7 +6,7 @@
   </picture>
 
 </div>
-<p align='leg'>
+<p align='left'>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=kidra11&show_icons=true&theme=dark&hide=issues" alt="GitHub stats" />
 </a>
