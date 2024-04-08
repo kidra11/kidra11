@@ -12,7 +12,7 @@
 </a>
 </p>
 
-<h3 align="right">Social Network</h3>
+<h3 align="right">Contact me</h3>
 
 <div align="right">
   <a href="nathalie1116kubo@gmail.com" target="_blank">
