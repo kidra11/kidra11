@@ -5,8 +5,7 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
   </picture>
-
- <h3 align="right">Contact me</h3>
+<h3 align="right">Contact me</h3>
 <div align="right">
   <a href="nathalie1116kubo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
