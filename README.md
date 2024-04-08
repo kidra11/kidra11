@@ -24,7 +24,7 @@
 <p align='right'><b>Github Profile Views</b></p>
 
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=4EF702&lines=Follow+the+white+rabbit...)](https://git.io/typing-svg)
 <!---
 https://giphy.com/
 https://readme-typing-svg.herokuapp.com/demo/
